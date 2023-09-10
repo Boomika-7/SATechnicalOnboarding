@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/748703ba-017c-40ce-9f97-4d8296a36001/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/my-first-static-web-app-mboomika",
+    "appService.deploySubpath": "."
+}
